@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\WEB_BanSach_MVC.csproj": {}
+  },
+  "projects": {
+    "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\BookValidationData\\BookCommonValidation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\BookValidationData\\BookCommonValidation.csproj",
+        "projectName": "BookCommonValidation",
+        "projectPath": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\BookValidationData\\BookCommonValidation.csproj",
+        "packagesPath": "C:\\Users\\DMX\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\BookValidationData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DMX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\DataAccess.Book\\DataAccess.Book.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\DataAccess.Book\\DataAccess.Book.csproj",
+        "projectName": "DataAccess.Book",
+        "projectPath": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\DataAccess.Book\\DataAccess.Book.csproj",
+        "packagesPath": "C:\\Users\\DMX\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\DataAccess.Book\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DMX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\BookValidationData\\BookCommonValidation.csproj": {
+                "projectPath": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\BookValidationData\\BookCommonValidation.csproj"
+              },
+              "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\EBook.common\\EBook.common.csproj": {
+                "projectPath": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\EBook.common\\EBook.common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.31, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.31, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.31, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\EBook.common\\EBook.common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\EBook.common\\EBook.common.csproj",
+        "projectName": "EBook.common",
+        "projectPath": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\EBook.common\\EBook.common.csproj",
+        "packagesPath": "C:\\Users\\DMX\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\EBook.common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DMX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\WEB_BanSach_MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\WEB_BanSach_MVC.csproj",
+        "projectName": "WEB_BanSach_MVC",
+        "projectPath": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\WEB_BanSach_MVC.csproj",
+        "packagesPath": "C:\\Users\\DMX\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DMX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\DataAccess.Book\\DataAccess.Book.csproj": {
+                "projectPath": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\DataAccess.Book\\DataAccess.Book.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

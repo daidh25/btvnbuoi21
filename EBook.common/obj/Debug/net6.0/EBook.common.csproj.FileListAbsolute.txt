@@ -1,0 +1,11 @@
+D:\ASP\Asp.net\WEB_BanSach_MVC\EBook.common\bin\Debug\net6.0\EBook.common.deps.json
+D:\ASP\Asp.net\WEB_BanSach_MVC\EBook.common\bin\Debug\net6.0\EBook.common.dll
+D:\ASP\Asp.net\WEB_BanSach_MVC\EBook.common\bin\Debug\net6.0\EBook.common.pdb
+D:\ASP\Asp.net\WEB_BanSach_MVC\EBook.common\obj\Debug\net6.0\EBook.common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Asp.net\WEB_BanSach_MVC\EBook.common\obj\Debug\net6.0\EBook.common.AssemblyInfoInputs.cache
+D:\ASP\Asp.net\WEB_BanSach_MVC\EBook.common\obj\Debug\net6.0\EBook.common.AssemblyInfo.cs
+D:\ASP\Asp.net\WEB_BanSach_MVC\EBook.common\obj\Debug\net6.0\EBook.common.csproj.CoreCompileInputs.cache
+D:\ASP\Asp.net\WEB_BanSach_MVC\EBook.common\obj\Debug\net6.0\EBook.common.dll
+D:\ASP\Asp.net\WEB_BanSach_MVC\EBook.common\obj\Debug\net6.0\refint\EBook.common.dll
+D:\ASP\Asp.net\WEB_BanSach_MVC\EBook.common\obj\Debug\net6.0\EBook.common.pdb
+D:\ASP\Asp.net\WEB_BanSach_MVC\EBook.common\obj\Debug\net6.0\ref\EBook.common.dll

@@ -1,0 +1,601 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WEB_BanSach_MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WEB_BanSach_MVC.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\css\\responsive.css.map",
+      "PackagePath": "staticwebassets\\css\\responsive.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\css\\ui.css",
+      "PackagePath": "staticwebassets\\css\\ui.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\css\\ui.css.map",
+      "PackagePath": "staticwebassets\\css\\ui.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\.DS_Store"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\avatars\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar1.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\avatars\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar2.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\avatars\\avatar3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar3.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\banners\\.DS_Store"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\ad-sm.png",
+      "PackagePath": "staticwebassets\\images\\banners\\ad-sm.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\ad.png",
+      "PackagePath": "staticwebassets\\images\\banners\\ad.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\banner-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner-item1.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\banner-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner-item2.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\banner-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner-item3.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner3.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner4.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\banner5.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner5.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\banner6.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner6.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\banner7.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner7.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\banner8.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner8.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\banner9.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\banner9.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\slide1.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\slide1.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\slide2.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\slide2.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\banners\\slide3.jpg",
+      "PackagePath": "staticwebassets\\images\\banners\\slide3.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\icons\\.DS_Store"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\AU@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\AU@2x.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\CN.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\CN.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\CN@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\CN@2x.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\DE@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\DE@2x.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\GB@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\GB@2x.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\IN.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\IN.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\IN@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\IN@2x.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\RU.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\RU.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\RU@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\RU@2x.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\TR.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\TR.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\TR@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\TR@2x.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\US@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\US@2x.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\UZ.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\UZ.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\flags\\UZ@2x.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\UZ@2x.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\pay-american-ex.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-american-ex.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\pay-bank.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-bank.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\pay-mastercard.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-mastercard.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\pay-visa-el.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-visa-el.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\icons\\pay-visa.png",
+      "PackagePath": "staticwebassets\\images\\icons\\pay-visa.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\items\\.DS_Store"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\1.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\10.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\11.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\12.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\13.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\14.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\15-1.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\15-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\15-2.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\15-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\15.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\2.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\3.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\4.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\5.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\6.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\7.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\8.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\items\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\9.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-white.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\misc\\appstore.png",
+      "PackagePath": "staticwebassets\\images\\misc\\appstore.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\misc\\payments.png",
+      "PackagePath": "staticwebassets\\images\\misc\\payments.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\misc\\playmarket.png",
+      "PackagePath": "staticwebassets\\images\\misc\\playmarket.png"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\posts\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\posts\\.DS_Store"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\posts\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\1.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\posts\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\2.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\posts\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\3.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\images\\posts\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\4.jpg"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\js\\jquery-2.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.0.0.min.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP\\Asp.net\\WEB_BanSach_MVC\\WEB_BanSach_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WEB_BanSach_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WEB_BanSach_MVC.props",
+      "PackagePath": "build\\WEB_BanSach_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WEB_BanSach_MVC.props",
+      "PackagePath": "buildMultiTargeting\\WEB_BanSach_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WEB_BanSach_MVC.props",
+      "PackagePath": "buildTransitive\\WEB_BanSach_MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

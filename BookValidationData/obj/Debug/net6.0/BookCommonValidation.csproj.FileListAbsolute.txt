@@ -1,0 +1,11 @@
+D:\ASP\Asp.net\WEB_BanSach_MVC\BookValidationData\bin\Debug\net6.0\BookCommonValidation.deps.json
+D:\ASP\Asp.net\WEB_BanSach_MVC\BookValidationData\bin\Debug\net6.0\BookCommonValidation.dll
+D:\ASP\Asp.net\WEB_BanSach_MVC\BookValidationData\bin\Debug\net6.0\BookCommonValidation.pdb
+D:\ASP\Asp.net\WEB_BanSach_MVC\BookValidationData\obj\Debug\net6.0\BookCommonValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Asp.net\WEB_BanSach_MVC\BookValidationData\obj\Debug\net6.0\BookCommonValidation.AssemblyInfoInputs.cache
+D:\ASP\Asp.net\WEB_BanSach_MVC\BookValidationData\obj\Debug\net6.0\BookCommonValidation.AssemblyInfo.cs
+D:\ASP\Asp.net\WEB_BanSach_MVC\BookValidationData\obj\Debug\net6.0\BookCommonValidation.csproj.CoreCompileInputs.cache
+D:\ASP\Asp.net\WEB_BanSach_MVC\BookValidationData\obj\Debug\net6.0\BookCommonValidation.dll
+D:\ASP\Asp.net\WEB_BanSach_MVC\BookValidationData\obj\Debug\net6.0\refint\BookCommonValidation.dll
+D:\ASP\Asp.net\WEB_BanSach_MVC\BookValidationData\obj\Debug\net6.0\BookCommonValidation.pdb
+D:\ASP\Asp.net\WEB_BanSach_MVC\BookValidationData\obj\Debug\net6.0\ref\BookCommonValidation.dll
